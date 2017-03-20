@@ -1,0 +1,4 @@
+---
+- hosts: windows
+  roles:
+    - ionut-maxim.win_sqlexpress2014
